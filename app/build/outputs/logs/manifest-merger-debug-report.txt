@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e27199d9577395431ba2ce65320e5c83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9eae7c7155d2388d5a918d99024728ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cb968d4165f114043c01641f38670db6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\40024fa39d1e1671f759fb5c0a5b4ad3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d8309719302574a97fdb6f67bf354b3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee1bc59b3b69211c22f29d334c61ff30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6fb16b68f46abfda913a730d857fcbab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bcf52ba49bb0b8965936b3370453ce0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1cdac20a3badcf50366ff6e0cc96f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f4189e94b8c89b516b19852adc2f98a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fcffaed29ba39860fba1c417054e291a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e7849b0af86a740e8f2f1998464bfd98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9f8d67e7a8ce4d975422bd1a3c51b661\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e8ea5f7792ad1194d831cac6f984670\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4556fb417fcdf6bdb77467c41ee9c24\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47d336e45c49a0143cc57436d881659\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97e8c559f60d1abe8b9ea505aab0474c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cb968d4165f114043c01641f38670db6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cb968d4165f114043c01641f38670db6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:11:9-40
+activity#cps.ru.sampleproblems.MainActivity
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e27199d9577395431ba2ce65320e5c83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e27199d9577395431ba2ce65320e5c83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9eae7c7155d2388d5a918d99024728ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9eae7c7155d2388d5a918d99024728ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cb968d4165f114043c01641f38670db6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cb968d4165f114043c01641f38670db6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\40024fa39d1e1671f759fb5c0a5b4ad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\40024fa39d1e1671f759fb5c0a5b4ad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d8309719302574a97fdb6f67bf354b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d8309719302574a97fdb6f67bf354b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee1bc59b3b69211c22f29d334c61ff30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee1bc59b3b69211c22f29d334c61ff30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6fb16b68f46abfda913a730d857fcbab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6fb16b68f46abfda913a730d857fcbab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bcf52ba49bb0b8965936b3370453ce0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bcf52ba49bb0b8965936b3370453ce0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1cdac20a3badcf50366ff6e0cc96f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b1cdac20a3badcf50366ff6e0cc96f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f4189e94b8c89b516b19852adc2f98a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f4189e94b8c89b516b19852adc2f98a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fcffaed29ba39860fba1c417054e291a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fcffaed29ba39860fba1c417054e291a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e7849b0af86a740e8f2f1998464bfd98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e7849b0af86a740e8f2f1998464bfd98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9f8d67e7a8ce4d975422bd1a3c51b661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9f8d67e7a8ce4d975422bd1a3c51b661\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e8ea5f7792ad1194d831cac6f984670\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e8ea5f7792ad1194d831cac6f984670\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4556fb417fcdf6bdb77467c41ee9c24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4556fb417fcdf6bdb77467c41ee9c24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47d336e45c49a0143cc57436d881659\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47d336e45c49a0143cc57436d881659\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97e8c559f60d1abe8b9ea505aab0474c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lacredin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97e8c559f60d1abe8b9ea505aab0474c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lacredin\AndroidStudioProjects\Experiments\Problems\app\src\main\AndroidManifest.xml
